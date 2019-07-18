@@ -1,0 +1,12 @@
+# local package
+-e .
+
+# external requirements
+numpy
+pandas
+xgboost
+python-dotenv>=0.5.1
+
+
+# backwards compatibility
+pathlib2
